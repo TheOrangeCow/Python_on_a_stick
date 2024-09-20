@@ -1,3 +1,5 @@
-# Run Python Program
+# Python on a stick
 
-To run the Python program, simply double-click on the `RunMe.bat` file.
+To run a pyhton project, simply double-click on the `RunMe.bat` file and slect it though the pp up window.
+
+It has to be on windows
